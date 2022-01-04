@@ -1,8 +1,10 @@
+```py
 Starting VS Code
 I am going to use the VS Code IDE. You can use other IDE which you are comfortable with. Start a new project and make a file called max.py.
 
 Defining Speak Function
 The first and foremost thing for an A.I. assistant is that it should be able to speak. To make our M.A.X. talk, we will make a function called speak(). This function will take audio as an argument, and then it will pronounce it.
+
 
 def speak(audio):
        pass      #For now, we will write the conditions later.
@@ -384,3 +386,4 @@ if __name__ == "__main__":
 
 
 
+```
